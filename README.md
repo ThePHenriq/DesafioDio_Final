@@ -14,3 +14,7 @@ Pergunta de Negócio 2 - Qual Faturamento Total de vendas de planos anuais, sepa
 Pergunta de Negócio 3 - Total de Vendas de Assinaturas do EA Play;
 
 Pergunta de Negócio 4 - Total de Vendas de Assinaturas do Minecraft Season Pass.
+
+Nesse projeto, foi trabalhado a organização dos dados e a apresentação final.
+
+(A versão desbloqueada demonstra a organização utilizada no mesmo)
